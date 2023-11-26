@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\bin\Debug\net7.0\FactroyAbstarctPatterns.exe
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\bin\Debug\net7.0\FactroyAbstarctPatterns.deps.json
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\bin\Debug\net7.0\FactroyAbstarctPatterns.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\bin\Debug\net7.0\FactroyAbstarctPatterns.dll
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\bin\Debug\net7.0\FactroyAbstarctPatterns.pdb
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\FactroyAbstarctPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\FactroyAbstarctPatterns.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\FactroyAbstarctPatterns.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\FactroyAbstarctPatterns.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\FactroyAbstarctPatterns.dll
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\refint\FactroyAbstarctPatterns.dll
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\FactroyAbstarctPatterns.pdb
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\FactroyAbstarctPatterns.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\FactroyAbstarctPatterns\FactroyAbstarctPatterns\obj\Debug\net7.0\ref\FactroyAbstarctPatterns.dll
