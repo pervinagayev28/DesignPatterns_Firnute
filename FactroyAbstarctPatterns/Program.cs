@@ -1,17 +1,6 @@
 ﻿namespace FactroyAbstarctPatterns
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            var chair = new ChairModern();
-            var sofa = new SofaModern();
-            var coffeetable = new CoffeeTableModern();
-            Furniture furniture = new(chair, sofa, coffeetable);
-
-        }
-    }
-
+    
 
     // ***** furnute interfaces ********
     public interface IChair
@@ -65,6 +54,8 @@
         public ICofeeTable creatCofeeTable() =>
             new CoffeeTableModern();
     }
+
+
     public class CoffeeTableVictorina : ICofeeTable
     {
         public ICofeeTable creatCofeeTable() =>
@@ -72,16 +63,8 @@
     }
 
 
-    public class Furniture
+    public interface IFurniture
     {
-        public Furniture(IChair chair, ISofa sofa, ICofeeTable coffeetable)
-        {
-            Chair = chair;
-            Sofa = sofa;
-            Coffeetable = coffeetable;
-            //some......
-
-        }
 
         public IChair Chair { get; }
         public ISofa Sofa { get; }
@@ -91,4 +74,26 @@
 
 
 
+    public class VictorianFurniture : IFurniture
+    {
+        public IChair Chair => new ChairVictorina();
+
+        public ISofa Sofa => new SofaVictorina();
+
+        public ICofeeTable Coffeetable =>new CoffeeTableVictorina();
+    }
+
+
+    public class ModernFurniture : IFurniture
+    {
+        public IChair Chair => new ChairModern();
+
+        public ISofa Sofa => new SofaModern();
+
+        public ICofeeTable Coffeetable => new CoffeeTableModern();
+    }
+
+
+
+ 
 }
